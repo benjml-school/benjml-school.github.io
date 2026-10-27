@@ -5,10 +5,11 @@ Celle-ci sera une activité de découverte sur ce dont est composé un ordinateu
 
 ## 1. Déroulement.
 
+En avance de l'activité, on prend des bouts de papier et on y vient écrire les éléments dans le tableau au point 3. Ensuite, on vient faire des groupes d'élèves de 4 à 6 et pendant une quinzaine de minutes ils vont venir assembler chaque nom, l'analogie et la définition du mot et il demande à l'enseignant de voir si c'est correct. On pourrait aussi imaginer d'imprimer avec des images pour les noms pour que cela soit plus agréable ou passionnant pour l'élève.
 
 ## 2. Objectifs.
 
-Découvrir et utiliser correctement un vocabulaire précis lié au hardware, ce vocabulaire est repris en dessous ainsi qu'une analogie que l'on peut utiliser pour s'y prendre. Le corps humain s'y prête plutôt bien ainsi c'est ce que l'on va employer.
+Découvrir et utiliser correctement un vocabulaire précis lié au hardware, ce vocabulaire est repris en dessous ainsi qu'une analogie que l'on peut utiliser pour s'y prendre. Le corps humain s'y prête plutôt bien ainsi c'est ce que l'on va employer. 
 
 ## 3. Contenu.
 
@@ -37,9 +38,11 @@ Il se pourrait que l'élève ne fasse pas bien la différence entre CPU, softwar
 ## 7. Prolongements.
 On peut imaginer une activité de type puzzle où l'élève va être mené à réaliser un puzzle pour faire un pc et on pourrait faire ça avec un site web ou bien des vrais composants mais ça devient vite cher et très peu pratique.
 
-Attendus du tronc commun :
-* 
+## 8. Attendus du tronc commun.
+
 
    ```shell
-   blabla
+   Vocabulaire spécifique au hardware :
+distinguer hardware de software, mémoire vive de mémoire morte, stockage interne de stockage externe
+Utiliser, adéquatement et en contexte, le terme périphérique
    ```
