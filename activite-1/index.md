@@ -5,7 +5,7 @@ Celle-ci sera une activité de découverte sur ce dont est composé un ordinateu
 
 ## 1. Déroulement.
 
-En avance de l'activité, on prend des bouts de papier et on y vient écrire les éléments dans le tableau au point 3. Ensuite, on vient faire des groupes d'élèves de 4 à 6 et pendant une quinzaine de minutes ils vont venir assembler chaque nom, l'analogie et la définition du mot et il demande à l'enseignant de voir si c'est correct. On pourrait aussi imaginer d'imprimer avec des images pour les noms pour que cela soit plus agréable ou passionnant pour l'élève.
+En avance de l'activité, on prend des bouts de papier et on y vient écrire les six premiers éléments dans le tableau au point 3. Ensuite, on vient faire des groupes d'élèves de 4 à 6 et pendant une quinzaine de minutes ils vont venir assembler chaque nom, l'analogie et la définition du mot et il demande à l'enseignant de voir si c'est correct. On pourrait aussi imaginer d'imprimer avec des images pour les noms pour que cela soit plus agréable ou passionnant pour l'élève. À la fin de cette activité il sera nécessaire de venir parler du hardware et software en faisant une synthèse orale où on viendrait mettre des exemples et expliciter en venant regrouper chaque élément du tableau et les mettre sous hardware et par après venir mettre d'autres exemples de software tel que des jeux vidéos ou bien des applications de base du téléphone.
 
 ## 2. Objectifs.
 
@@ -19,7 +19,7 @@ Découvrir et utiliser correctement un vocabulaire précis lié au hardware, ce 
 | GPU | Le système sensoriel et moteur |unité spécialisé dans le traitement parallèle d'énormes quantités de données visuelles.| 
 | RAM (**Mémoire vive**)  | La mémoire à court terme ou de travail | Stockage non permanent qui se vide quand l'ordinateur s'éteint.|
 | Stockage (**Mémoire morte**) | Mémoire à long terme | Stockage permanent. |
-| Alimentation | Système digestif | Alimente les différents composants en électricité.|
+| Alimentation | Système digestif | Alimente les différents composants en énergie.|
 |Carte mère|Système nerveux|Orchestre de l'ordinateur et relie chaque composant l'un à l'autre.|
 | **Hardware** | corps biologique | composants physiques d’un matériel informatique. |
 | **Software** | la conscience/personnalité | mot anglais pour logiciel. |
