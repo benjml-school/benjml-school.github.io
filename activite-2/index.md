@@ -4,7 +4,7 @@
 ## 1. Déroulement
 
 ### Phase 1 : Le Puzzle du Réseau (Découverte Active – 15 min)
-1. **Préparation :** Des cartes sont distribuées aux élèves, chacune représentant un composant du schéma (Ordinateur, Imprimante, Routeur, Internet, flèches de connexion, etc.).
+1. **Préparation :** Des cartes sont distribuées aux élèves, chacune représentant un composant du schéma (Ordinateur, Imprimante, Routeur, Internet, etc.).
 2. **Consigne :** Les élèves, en groupes, doivent assembler ces cartes de manière à créer un circuit logique où l'information peut circuler de l'appareil local vers Internet et vice-versa.
 3. **Observation :** L'enseignant observe les tentatives des groupes pour identifier intuitivement l'ordre et les connexions.
 4. **Correction :** La structure est établie au tableau.
@@ -39,7 +39,7 @@
 *   Compréhension basique du concept de communication (un message doit aller de A à B).
 
 ## 5. Matériel
-*   Cartes/cartes à manipuler représentant les éléments du schéma (ordinateur, routeur, globe, etc.) avec leurs adresses IP.
+*   Cartes à manipuler représentant les éléments du schéma (ordinateur, routeur, globe, etc.) avec leurs adresses IP.
 *   Feutres et papier ou tableau blanc pour la reconstruction collective.
 *   Le schéma initial à afficher comme référence finale.
 
