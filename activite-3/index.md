@@ -1,3 +1,5 @@
+# Plan d'Activité : Types de fichier.
+*(Étude des formats de fichiers et de leur usage approprié)*
 
 ##  1. Déroulement
 
